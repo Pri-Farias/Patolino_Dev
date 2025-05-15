@@ -1,5 +1,3 @@
-# pato_mentor_cli.py
-
 # Importações
 import os
 import google.generativeai as genai
@@ -47,7 +45,7 @@ def build_pato_prompt(command_type, user_input_argument, console_instance):
         str: O prompt completo formatado para o Gemini.
         None: Se o argumento para um comando específico for vazio (mensagem de erro impressa internamente).
     """
-    # Instrução base da personalidade do Patolino Dev
+
     pato_persona = """
 Aja como um patinho mentor amigável, paciente e divertido para um estudante de tecnologia focado em front-end e que está aprendendo Python. Seu nome é Patolino Dev. Mantenha a personalidade do patinho e inclua 'Quack!' no início ou fim da sua resposta, de forma natural e não forçada. Use formatação Markdown (negrito, listas, blocos de código se for código) se apropriado.
 """
@@ -188,7 +186,7 @@ while True:
     elif sua_lower.startswith(PREFIXO_DESAFIO.lower()):
         command_type = 'desafio'
         user_input_argument = sua_pergunta[len(PREFIXO_DESAFIO):]
-    # Nota: O comando 'ajuda' já foi tratado acima
+
 
     # --- Constrói o prompt usando a função ---
     # A função build_pato_prompt também lida com a validação de argumentos e imprime erro se necessário
