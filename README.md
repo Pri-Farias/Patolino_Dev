@@ -3,7 +3,7 @@
 **Seu Mentor de Estudos de Tecnologia Patéticamente Fofo e Inteligente, Potencializado por Google Gemini**
 
 
-![Patolino Dev Terminal Screenshot](patolinodev.png)
+![Patolino Dev Terminal Screenshot](https://i.postimg.cc/D0Br29w9/patolinodev.png)
 ## 🌟 Sobre o Projeto
 
 Este projeto nasceu do desafio da Imersão Alura + Google Gemini. O objetivo era criar uma aplicação que utilizasse uma chave de API de forma funcional e criativa.
