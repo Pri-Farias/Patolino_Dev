@@ -59,3 +59,5 @@ Abra o terminal do seu computador e clone este repositório do GitHub:
 ```bash
 git clone https://github.com/Pri-Farias/Patolino_Dev.git
 cd Patolino_Dev
+
+```
