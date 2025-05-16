@@ -59,4 +59,4 @@ Abra o terminal do seu computador e clone este repositório do GitHub:
 
 git clone [https://github.com/Pri-Farias/Patolino_Dev.git](https://github.com/Pri-Farias/Patolino_Dev.git)
 
-cd Patolino_Dev
+cd PROJETO_PATOLINO_DEV
