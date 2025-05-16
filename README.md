@@ -56,7 +56,7 @@ Este projeto interage diretamente com a API do Google Gemini. Para utilizá-lo, 
 
 Abra o terminal do seu computador e clone este repositório do GitHub:
 
-
-git clone [https://github.com/Pri-Farias/Patolino_Dev.git](https://github.com/Pri-Farias/Patolino_Dev.git)
-
-cd PROJETO_PATOLINO_DEV
+``` bash
+git clone https://github.com/Pri-Farias/Patolino_Dev.git
+cd Patolino_Dev
+```
